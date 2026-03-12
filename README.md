@@ -1,7 +1,7 @@
 # Superstore-SQL-Analysis
 Retail Superstore data analysis using SQL with insights visualized in Power BI.
 
-REATE TABLE superstore_orders (
+CREATE TABLE superstore_orders (
     row_id INT,
     order_id VARCHAR(20),
     order_date DATE,
